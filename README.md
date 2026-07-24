@@ -89,10 +89,6 @@ response = cortex.generate_motor_output(cognitive_output)
 
 This repository welcomes **neurobiologically-informed** enhancements and **synaptic refinements**. Submit pull requests to expand our **neural taxonomy**.
 
-## License
-
-This cerebral architecture is licensed under the MIT Neural Commons License.
-
 ---
 
 *"In every artificial neuron, a synapse awaits."* - The Principle of Computational Neuroscience
